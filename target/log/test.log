@@ -1,0 +1,64 @@
+2020-11-16 13:53:15 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 13:53:19 main INFO  TestBase:40 - navigated to the url : https://ebay.com
+2020-11-16 13:53:25 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:08:54 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:08:57 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:09:03 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:09:30 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:09:34 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:09:47 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:09:57 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:10:01 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:10:14 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:10:53 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:10:56 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:11:10 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:11:27 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:11:30 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:11:43 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:12:03 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:12:06 main INFO  TestBase:40 - navigated to the url : http://demo.guru99.com/test/drag_drop.html
+2020-11-16 14:12:19 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-16 14:53:26 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:53:28 main INFO  Selenium1:41 - browser open
+2020-11-16 14:53:30 main INFO  TestBase:40 - navigated to the url : https://www.amazon.com
+2020-11-16 14:53:30 main INFO  Selenium1:43 - amazon open
+2020-11-16 14:54:53 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 14:54:55 main INFO  Selenium1:41 - browser open
+2020-11-16 14:54:58 main INFO  TestBase:40 - navigated to the url : https://www.amazon.com
+2020-11-16 14:54:58 main INFO  Selenium1:43 - amazon open
+2020-11-16 15:00:44 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 15:00:47 main INFO  Selenium1:42 - browser open
+2020-11-16 15:00:49 main INFO  TestBase:40 - navigated to the url : https://www.amazon.com
+2020-11-16 15:00:49 main INFO  Selenium1:44 - amazon open
+2020-11-16 15:21:13 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 15:21:15 main INFO  Selenium1:42 - browser open
+2020-11-16 15:21:18 main INFO  TestBase:40 - navigated to the url : https://www.walmart.com/
+2020-11-16 15:21:18 main INFO  Selenium1:44 - Walmart open
+2020-11-16 15:26:58 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 15:27:00 main INFO  Selenium1:44 - browser open
+2020-11-16 15:27:04 main INFO  TestBase:40 - navigated to the url : https://www.walmart.com/
+2020-11-16 15:27:04 main INFO  Selenium1:46 - Walmart open
+2020-11-16 15:36:56 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 15:36:58 main INFO  Selenium1:44 - browser open
+2020-11-16 15:37:02 main INFO  TestBase:40 - navigated to the url : https://www.walmart.com/
+2020-11-16 15:37:02 main INFO  Selenium1:46 - Walmart open
+2020-11-16 15:38:46 main INFO  TestBase:32 - Chrome has been launched
+2020-11-16 15:38:49 main INFO  Selenium1:44 - browser open
+2020-11-16 15:38:52 main INFO  TestBase:40 - navigated to the url : https://www.walmart.com/
+2020-11-16 15:38:52 main INFO  Selenium1:46 - Walmart open
+2020-11-18 12:02:53 main INFO  TestBase:32 - Chrome has been launched
+2020-11-18 12:02:57 main INFO  TestBase:40 - navigated to the url : https://www.ebay.com
+2020-11-18 12:05:02 main INFO  TestBase:32 - Chrome has been launched
+2020-11-18 12:05:06 main INFO  TestBase:40 - navigated to the url : https://www.ebay.com
+2020-11-18 12:05:09 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-18 12:08:28 main INFO  TestBase:32 - Chrome has been launched
+2020-11-18 12:08:30 main INFO  Selenium1:63 - browser open
+2020-11-18 12:08:32 main INFO  TestBase:40 - navigated to the url : https://www.ebay.com
+2020-11-18 12:08:32 main INFO  Selenium1:65 - ebay open
+2020-11-18 12:08:38 main INFO  TestBase:53 - closed the instance of the driver
+2020-11-18 12:09:07 main INFO  TestBase:32 - Chrome has been launched
+2020-11-18 12:09:09 main INFO  Selenium1:63 - browser open
+2020-11-18 12:09:13 main INFO  TestBase:40 - navigated to the url : https://www.ebay.com
+2020-11-18 12:09:13 main INFO  Selenium1:65 - ebay open
+2020-11-18 12:09:19 main INFO  TestBase:53 - closed the instance of the driver
